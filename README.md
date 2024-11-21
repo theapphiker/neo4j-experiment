@@ -12,4 +12,4 @@ If you have PIP installed, type: `pip install -r Requirements.txt` from the comm
 
 <b>Neo4j</b>
 
-Visit <a href='https://www.neo4j.com>Neo4j's website</a> for instructions on downloading and setting up Neo4j software.
+Visit <a href='https://www.neo4j.com'>Neo4j's website</a> for instructions on downloading and setting up Neo4j software.
